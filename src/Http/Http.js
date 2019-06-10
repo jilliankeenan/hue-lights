@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const bridge = '10.64.12.39';
+const bridge = '10.64.12.88';
 const apiKey = 'iDUbUlKUtrqhMvEWxf-5QZTrXgePaaqNLijIkEb1';
 
 export const get = (endpoint) => {
