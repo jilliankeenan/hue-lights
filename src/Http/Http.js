@@ -12,5 +12,8 @@ export const post = (endpoint, body) => {
 }
 
 export const put = (endpoint, body) => {
+    console.log("put")
+    console.log('http://' + bridge + '/api/' + apiKey + endpoint)
+    console.log(body)
   return axios.put('http://' + bridge + '/api/' + apiKey + endpoint, body)
 }

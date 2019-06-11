@@ -1,5 +1,5 @@
 .button_container {
-  margin-top: 200px;
+  margin-top: 7%;
   text-align: center;
 }
 .button {
@@ -9,4 +9,9 @@
   font-size: 16px;
   height: 40px;
   width: 200px;
+}
+
+.bulb__card {
+    text-align: center;
+    background: #e1e4e8;
 }
