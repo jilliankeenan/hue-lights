@@ -1,6 +1,6 @@
 STEPS
 1. Open the terminal in whatever folder you want to store your project in e.g. Users/puppet/Documents
-2. git clone https://github.com/conormurraypuppet/hue-lights.git 
+2. git clone https://github.com/puppetlabs/hue-lights.git 
 3. cd hue-lights
 4. brew install npm
 5. npm install
